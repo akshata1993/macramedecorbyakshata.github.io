@@ -1,0 +1,123 @@
+/* body {
+    background-color: rgb(238, 233, 182);
+}
+ */
+
+.nav-item {
+    padding: 0 7px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'bold Ubuntu', sans-serif;
+    padding-top: 100px;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+    padding: 3%;
+    color: rgb(10, 9, 9);
+}
+
+#secondhalf {
+    padding: 5% 0;
+}
+
+.box img {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 50%;
+}
+
+.btn {
+    font-size: small;
+    font-family: 'bold Montserrat', sans-serif;
+    margin: 20px 0;
+    background-color: green;
+    width: 200px;
+}
+
+.carousel-caption h5,
+.carousel-caption p {
+    color: rgb(14, 4, 4);
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.carousel-item img {
+    width: 200px;
+    height: 400px;
+    filter: blur(5);
+}
+
+.heading2 {
+    padding: 0 0;
+}
+
+h4,
+h6 {
+    text-align: center;
+    padding: 1px 0;
+    text-transform: capitalize;
+    font-family: 'bold Montserrat', sans-serif;
+    text-decoration: 3px solid rgb(87, 77, 77);
+}
+
+h6 {
+    color: gray;
+}
+
+.aboutme {
+    background-color: rgb(138, 136, 136);
+}
+
+.about {
+    padding: 50px 0;
+}
+
+.about img {
+    border-radius: 50%;
+}
+
+.para2 {
+    text-align: center;
+    padding: 0% 10% 7%;
+    font-family: ' bold Montserrat', sans-serif;
+    font-weight: 400;
+    color: #fff;
+}
+
+#location {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.para {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: white;
+    padding: 80px;
+    height: 500px;
+    width: 100%;
+    /* border: 1px solid black; */
+    background-color: black;
+}
+
+.innerpara {
+    text-align: center;
+    padding: 70px 0;
+}
+
+.icon {
+    color: rgb(21, 37, 189);
+    margin-bottom: 1rem;
+}
+
+.footer {
+    background-color: grey;
+    text-align: center;
+    padding: 2% 0;
+}

@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(58, 56, 56);
+}
+
+form {
+    width: 100%;
+    padding: 7% 15%;
+}
+
+label {
+    color: white;
+}
+
+input {
+    width: 50%;
+}
